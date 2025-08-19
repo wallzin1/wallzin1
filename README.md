@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera (4° Per
 
 
 ## SOBRE MIM
----
+
 🎓 Estudante de Analise e Desenvolvimento De Sistemas (4º período)
 💼 Buscando Estágio na area de desenvolvimento
 📚 Estudando constantemente para aprimorar minhas habilidades de desenvolvimento
