@@ -6,9 +6,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Anhanguera (4° Per
 
 ## SOBRE MIM
 
-🎓 Estudante de Analise e Desenvolvimento De Sistemas (4º período)
-💼 Buscando Estágio na area de desenvolvimento
-📚 Estudando constantemente para aprimorar minhas habilidades de desenvolvimento
-💡 Interesses: crescimento profissional, Analise de sistemas, Back-end 
-📍 Minas Gerais - Brasil
+<p>🎓 Estudante de Analise e Desenvolvimento De Sistemas (4º período)<br>
+💼 Buscando Estágio na area de desenvolvimento<br>
+📚 Estudando constantemente para aprimorar minhas habilidades de desenvolvimento<br>
+💡 Interesses: crescimento profissional, Analise de sistemas, Back-end <br>
+📍 Minas Gerais - Brasil<br>
+</P>
+
 
